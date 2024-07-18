@@ -1,0 +1,5 @@
+rootProject.name = 'AppGr'
+include 'db'
+include 'service'
+include 'api'
+
